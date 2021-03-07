@@ -1,1 +1,1 @@
-# MSnakeGame
+# Snake
